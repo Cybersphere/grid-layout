@@ -33,3 +33,4 @@ align-content  используется для вертикального выр
 
 
 ```grid-column``` - определяет сколько элемент займет столбцов
+To place an item, you can refer to line numbers, or use the keyword "span" to define how many columns the item will span.
