@@ -23,10 +23,13 @@ GRID LINES
   grid-column-end: 3;
   grid-row-start: 1;
   grid-row-end: 3;
-}
+}```
 
  grid-template-columns:auto/size Определят кол-во столбцов и их размер
 grid-template-rows: auto/size Определяет высоту строки
 
 justify-content используется для выравнивания всей сетки внутри контейнера.
 align-content  используется для вертикального выравнивания всей сетки внутри контейнера.
+
+
+```grid-column``` - определяет сколько элемент займет столбцов
