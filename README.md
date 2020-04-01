@@ -24,3 +24,5 @@ GRID LINES
   grid-row-start: 1;
   grid-row-end: 3;
 }
+
+ grid-template-columns Определят кол-во столбцов и их размер
