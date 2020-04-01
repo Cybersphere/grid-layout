@@ -37,3 +37,4 @@ To place an item, you can refer to line numbers, or use the keyword "span" to de
 grid-row -  аналогично со строками
 
 The grid-area property can be used as a shorthand property for the grid-row-start, grid-column-start, grid-row-end and the grid-column-end properties.
+The grid-area property can also be used to assign names to grid items.
