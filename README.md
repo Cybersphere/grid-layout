@@ -36,3 +36,4 @@ align-content  используется для вертикального выр
 To place an item, you can refer to line numbers, or use the keyword "span" to define how many columns the item will span.
 grid-row -  аналогично со строками
 
+The grid-area property can be used as a shorthand property for the grid-row-start, grid-column-start, grid-row-end and the grid-column-end properties.
