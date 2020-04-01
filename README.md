@@ -38,3 +38,12 @@ grid-row -  аналогично со строками
 
 The grid-area property can be used as a shorthand property for the grid-row-start, grid-column-start, grid-row-end and the grid-column-end properties.
 The grid-area property can also be used to assign names to grid items.
+
+grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+
+ORDER
+ { grid-area: 1 / 3 / 2 / 4; }
+grid-area: 1 / span 3 / 2 / 4;
